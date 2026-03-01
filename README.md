@@ -44,6 +44,17 @@ KeyboardTester/
 
 ---
 
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/SoufianoDev/KeyboardTester.git
+cd KeyboardTester
+```
+
+---
+
 ## Building
 
 ### Linux / macOS
